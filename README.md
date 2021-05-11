@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-## LIVE: https://vanilla-videochat.netlify.app/
+### LIVE: https://vanilla-videochat.netlify.app/
 
 ![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
 
